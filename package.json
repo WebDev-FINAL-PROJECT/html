@@ -1,0 +1,19 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "HTML code for colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDev-FINAL-PROJECT/html.git"
+  },
+  "author": "IAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDev-FINAL-PROJECT/html/issues"
+  },
+  "homepage": "https://github.com/WebDev-FINAL-PROJECT/html#readme"
+}
